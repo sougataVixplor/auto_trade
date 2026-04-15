@@ -1,7 +1,7 @@
 streamlit>=1.35.0
 yfinance>=0.2.40
 pandas>=2.0.0
-pandas-ta>=0.3.14b
+pandas-ta-openbb
 plotly>=5.20.0
 newsapi-python>=0.2.7
 feedparser>=6.0.11
